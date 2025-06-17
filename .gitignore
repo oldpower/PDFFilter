@@ -1,0 +1,7 @@
+# 如果文件已经被 Git 跟踪（之前提交过），需要先取消跟踪：
+# git rm --cached 文件名
+
+# 忽略目录
+tmp/
+build/
+.cache/
